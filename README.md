@@ -112,7 +112,7 @@ and click ‘forward'.
 
 ![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/72b5b291-3f20-4db5-88e9-b4f63e226d0e)
 
-## Steps:19
+## Steps:18
 
 Log-in and enter your password and you can now call yourself a Fedora user.
 This is how your Fedora desktop will look.
