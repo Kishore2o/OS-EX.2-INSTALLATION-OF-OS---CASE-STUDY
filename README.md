@@ -104,5 +104,18 @@ desire, your full name, and your password.
 
 ## Steps:17
 
+Set your date and time, then click on the ‘Network Time Protocol' tab. With
+the network time protocol (NTP), your computer can fetch the current time
+from a time server over the internet, so you do not have to adjust the time
+every time DST goes into or out of effect. Select enable network time protocol
+and click ‘forward'.
+
+![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/72b5b291-3f20-4db5-88e9-b4f63e226d0e)
+
+## Steps:19
+
+Log-in and enter your password and you can now call yourself a Fedora user.
+This is how your Fedora desktop will look.
+
 ## RESULT:
 Successfully we installed the OS
